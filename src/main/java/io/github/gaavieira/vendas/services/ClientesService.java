@@ -21,6 +21,8 @@ public class ClientesService {
         this.clienteRepository.persistir(cliente);
 
     }
-    public void validarCliente(Cliente cliente){}
+    public void validarCliente(Cliente cliente){
+
+    }
 
 }
